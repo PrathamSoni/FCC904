@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea
+/data/all_data/
+/data/all_bids.csv
+/data/auction904_updated_block_cbg.csv
+/data/auction904_updated_cbg.csv
+/data/existing_service.csv
