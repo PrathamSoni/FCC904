@@ -134,3 +134,6 @@ dmypy.json
 /data/auction904_updated_block_cbg.csv
 /data/auction904_updated_cbg.csv
 /data/existing_service.csv
+*.pkl
+.DS_Store
+*/.DS_Store
