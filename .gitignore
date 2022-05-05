@@ -130,10 +130,8 @@ dmypy.json
 
 .idea
 /data/all_data/
-/data/all_bids.csv
-/data/auction904_updated_block_cbg.csv
-/data/auction904_updated_cbg.csv
-/data/existing_service.csv
+/data/*.csv
+/data/*.xlsx
 *.pkl
 .DS_Store
 */.DS_Store
