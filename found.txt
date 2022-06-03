@@ -1,0 +1,253 @@
+SOMERSET TELEPHONE COMPANY: {'SOMERSET TELEPHONE COMPANY', 'Northwest Community Communications', 'Amery Telcom, Inc.'}
+Talkie Communications, Inc.: {'Talkie Communications, Inc.', 'TalkieCommunications'}
+W.T. Services, Inc.: {'WT Services', 'West Texas Rural Telephone Coop., Inc.', 'West Texas Rural Telephone Cooperative Inc.', 'W.T. Services, Inc.'}
+Micrologic, Inc.: {'Micrologic', 'Micrologic, Inc.'}
+Visionary Communications, Inc.: {'Visionary Communications, Inc', 'Visionary Communications, Inc.', 'Visionary Broadband'}
+Etheric Networks, Inc.: {'Etheric Networks, Inc.'}
+Conifer Communications: {'Conifer Communications 200 Mbps Custom Plan', 'Conifer Communications', 'Conifer Communications, Inc.'}
+Emery Telcom: {'Emery Telcom Video, LLC', 'Emery Telcom Video  LLC', 'Emery Telephone', 'Emery Telcom', 'Custom Plan - Not Available'}
+Plateau: {'Plateau', 'ENMR Telephone Cooperative, Inc.', 'Plateau Telecommunications, Inc.'}
+Direct Communications Rockland, Inc.: {'Direct Communications Rockland', 'Direct Communications Rockland, Inc.', 'May, Bott et al.'}
+Consolidated Telephone Company: {'Consolidated Companies, Inc.', 'Consolidated Telephone Company', 'Consolidated Companies  Inc.', 'Consolidated Telecommunications Company'}
+Point Broadband Fiber Holding, LLC: {'Point Broadband Opelika, LLC', 'Point Broadband of Opelika, LLC', 'Point Broadband Fiber Holding, LLC', 'OptiNet', 'Sunset Fiber, LLC', 'Point Broadband, LLC', 'Point Broadband LLC', 'Sunset Digital Communications, LLC'}
+Sandhill Telephone Cooperative, Inc.: {'Sandhill Telephone Cooperative', 'Sandhill Connextions', 'Sandhill Connextions, LLC', 'Sandhill Telephone Coop., Inc.', 'Sandhill Telephone Cooperative, Inc.'}
+Allen's TV Cable Service, Inc.: {"Allen's TV Cable Service, Inc."}
+Atlantic Telephone Membership Corporation: {'Atlantic Telephone Membership Corporation', 'Atlantic Telecom Multimedia Consolidated, LLC'}
+Totah Communications, Inc.: {'Totel Customer Services, Inc.', 'BartNet IP, LLC', 'Totah Communications, Inc.'}
+Blackfoot Telephone Cooperative, Inc.: {'Fremont Telcom Co.', 'BCIIDAHO', 'Blackfoot Communications, Inc.', 'BLACKFOOTCOMMUNICATIONS', 'Blackfoot Telephone Cooperative, Inc.'}
+Resound Networks, LLC: {'Resound Networks', 'Resound Networks, LLC', 'Resound Networks LLC'}
+Redzone Wireless, LLC: {'Redzone Wireless, LLC'}
+Arvig Enterprises, Inc.: {'Clements Telephone Company Inc.', 'Eagle Valley Telephone Company', 'Arvig Enterprises', 'Tekstar Communications, Inc.', 'Arrowhead Communications Corporation', 'Mainstreet Communications LLC', 'Felton Telephone Company, Inc.', 'MAINSTREET', 'Callaway Telephone Company, Inc.', 'Arvig Enterprises, Inc.'}
+Ultimate Internet Access, Inc.: {'Ultimate Internet Access, Inc', 'Ultimate Internet Access, Inc.'}
+Continental Divide Electric Cooperative, Inc.: {'Continental Divide Electric Cooperative, Inc.'}
+Daviess-Martin County Rural Telephone Corporation: {'Daviess-Martin County Rural Telephone Corporation', 'Daviess-Martin County RTC', 'RTC Communications'}
+Citizens Telephone Company: {'Citizens Telephone Company', 'Citizens Telephone Company, Inc. (GA)', 'Citizens Telephone Company, Inc.', 'Citizens Telephone Company of Hammond New York', 'Citizens Vermont Acquisition Company, Inc.', 'Citizens Telephone Company of Hammond NY, Inc.'}
+Hankins Information Technology: {'Hankins Information Technology'}
+Hood Canal Communications: {'Hood Canal Communications', 'RJB Telecommunications Corp.', 'HOOD CANAL TELEPHONE CO., INC.'}
+Planters Communications, LLC: {'Planters Rural Telephone Cooperative, Inc.', 'Planters Communications, LLC'}
+Scranton Telephone Company: {'Scranton Telephone Company'}
+Safelink Internet: {'Safelink Internet'}
+Lennon Telephone Company: {'Lennon Telephone Company', 'Lennon'}
+NTS, Inc.: {'Clarity Telecom, LLC d/b/a Vast Broadband', 'NTS, Inc.', 'Vexus', 'NTS Communications, LLC d/b/a Vexus'}
+Baraga Telephone Company Inc.: {'Baraga Telephone', 'Baraga Telephone Company', 'Baraga Telephone Company Inc.'}
+Surf Air Wireless, LLC: {'Surf Air Wireless, LLC', 'Surf Broadband Solutions'}
+Baldwin Telecom, Inc.: {'Baldwin Telecom, Inc', 'Baldwin Telecom Inc', 'Baldwin Broadband, LLC', 'Baldwin Telecom, Inc.'}
+MTC Cable: {'MTC Cable', 'Margaretville Telephone Company, Inc.'}
+Mercury Wireless, Inc.: {'Mercury Wireless, Inc.', 'Mercury Wireless Kansas, LLC', 'Mercury Wireless Indiana, LLC.', 'MercuryWirelessKansasLLC', 'Mercury Wireless Indiana LLC'}
+Public Service Telephone Company: {'Public Service Telephone Company', 'Public Service Communications, Inc.'}
+MEI Telecom, Inc.: {'Barry County Services Company', 'MEI Telecom, Inc.'}
+LR Communications, Inc.: {'LR Communications', 'LR Communications Inc', 'LR Communications, Inc.', 'Mutual Telephone Company (KS)'}
+Wilkes Telephone Membership Corporation: {'Wilkes Communications, Inc.', 'RiverStreet Communications of North Carolina, Inc.', 'Wilkes Communications Inc.', 'Peoples Mutual Telephone Company', 'Wilkes Telephone Membership Corporation', 'Barnardsville Telephone Company', 'RiverStreet Wireless of North Carolina, Inc.', 'RiverStreet Communications of  Virginia, Inc.', 'WILKES TELEPHONE MEMBERSHIP CORP', 'Ellerbe Telephone Company', 'RiverStreet Networks', 'RiverStreet Wireless of Virginia, Inc.', 'RIVERSTREET NETWORKS', 'Saluda Mountain Telephone Company', 'TriCounty Communications, Inc.', 'Tri-County Telephone Membership Corp.'}
+Mountain West Technologies Corporation: {'Chugwater Telephone Company', 'Chugwater Telephone Co.', 'Mountain West Technologies Corporation'}
+Terral Telephone Company: {'Terral Telephone Company', 'Terral Telephone dba Wavelinx'}
+Wittenberg Telephone Company: {'Wittenberg Telephone Company', 'Wittenberg Cable TV Company, Inc.', 'Wittenberg Wireless, LLC', 'Wittenberg Telephone Company, Inc.', 'Wittenberg Cable TV Co Inc', 'Cirrinity'}
+Arrowhead Electric Cooperative, Inc.: {'Arrowhead Electric Cooperative, Inc.'}
+Amherst Telephone Company: {'Amherst Telephone Company'}
+Cherry Capital Connection, LLC: {'Cherry Capital Connection, LLC', 'Cheryy Capital Connection, LLC'}
+Federated Telephone Cooperative: {'Federated Telephone Cooperative', 'FARMERS MUTUAL TELEPHONE COMPANY', 'FederatedTelephoneCooperative', 'FarmersMutualTelephoneCompany', 'Farmers Mutual Telephone Company'}
+Fundamental Holdings Corp dba Peak Internet: {'Fundamental Holdings Corp dba Peak Internet', 'Fundamental Holdings Corp.', 'Peak Internet'}
+DTC Cable, Inc.: {'DTC CABLE', 'DTC Cable, Inc.', 'Delhi Telephone Company'}
+Mountain View Telephone Company: {'Mountain View Telephone Co', 'Mountain View Telephone Company', 'Yelcot Holding Group, Inc.'}
+Yucca Telecom: {'Yucca Telecommunications Systems', 'Roosevelt County Rural Telephone Cooperative, Inc.', 'Yucca Telecom'}
+GigaBeam Networks, LLC: {'GigaBeam Networks LLC', 'GigaBeam Networks, LLC', 'WVVA.net Inc.'}
+Albion Telephone Company, Inc.: {'Albion Telephone Company dba ATC Communications', 'ATC Communications', 'Albion Telephone Company, Inc.', 'Red-Ban Communications LLC'}
+Skybeam, LLC: {'JAB Wireless, Inc.', 'Rise Broadband', 'Skybeam, LLC'}
+Rocket Connect LLC: {'CISC LLC', 'Rocket Connect LLC', 'Rocket Connect'}
+Hamilton County Telephone Co-Op: {'Hamilton County Communications Inc', 'Futiva, LLC', 'Hamilton County Telephone Co-Op', 'Hamilton County Communications, Inc.', 'Hamilton County Telephone Coop', 'Futiva LLC'}
+Pinpoint Holdings, Inc.: {'Accipiter Communications Incorporated', 'Pinpoint Holdings, Inc.', 'Pinpoint Communications Inc.', 'Cambridge Telephone Company', 'ZONA WYYERD'}
+Bays-ET Highspeed Internet LLC: {'Bays-ET Highspeed Internet LLC', 'Bays-ET Highspeed Internet Service', 'Bays-ET High-Speed Internet Service'}
+Pine Belt Communications Co. Inc.: {'Pine Belt Telephone', 'Pine Belt Broadcasting, LLC', 'Pine Belt Broadcasting', 'Pine Belt Cellular, Inc.', 'Pine Belt Communications Co. Inc.'}
+Colorado Central Telecom, Inc.: {'Chaffee County Telecom, LLC', 'Colorado Central Telecom, Inc.'}
+Peoples Communication, Inc.: {'Peoples Telephone Cooperative, Inc./Peoples FiberCom', 'Peoples', 'Peoples Communication, Inc.'}
+Hotwire Communications Ltd.: {'Hotwire Communications Ltd.', 'Hotwire Communications, Ltd.'}
+Solarus: {'Wood County Telephone Company', 'Solarus', 'Manawa Telephone Co Inc', 'Wood County Telephone Company,  DBA'}
+Bruce Telephone Company, Inc.: {'BRUCETEL COMMUNICATIONS, LLC', 'Bruce Telephone Company', 'Bruce Telephone Company, Inc.'}
+Cellular Services LLC: {'Cellular Services LLC', 'Foothills Rural Telephone Cooperative Corporation, Inc.', 'Foothills Connect', 'Foothills Telephone Cooperative Corp., Inc.'}
+Velocity Communications, Inc.: {'Velocity Communications, Inc.'}
+WTC Communications, Inc.: {'WTC Communications', 'WTC', 'Wamego Telephone Company, Inc.', 'WTC Communications, Inc.'}
+Sound Internet Services, Inc.: {'PogoZone', 'Sound Internet Services, Inc.'}
+One Point Technologies Inc.: {'One Point Technologies Inc.', 'One Point Technologies, Inc', 'Blue Valley Tele-Communications, Inc.'}
+Data Stream: {'Data Stream', 'Data Stream Mobile Technologies, Inc.'}
+Haefele TV Inc.: {'Haefele TV', 'Haefele TV Inc.'}
+LocalTel Communications: {'LocalTel Communications', 'Computer 5, Inc.'}
+Roseau Electric Cooperative: {'Roseau Electric Cooperative', 'NorthStream Fiber'}
+Plains Internet, LLC: {'Plains Internet', 'Plains Internet, LLC'}
+Woodstock Telephone Company: {'Woodstock Communications', 'Woodstock Telephone Company'}
+Southwest Texas Telephone Company: {'Southwest Texas Telcom, Inc.', 'Southwest Texas Telephone Company'}
+Altice: {'Suddenlink Communications', 'Cablevision', 'Cablevision Lightpath-NY, Inc.', 'Altice', 'Cablevision Lightpath NJ LLC', 'Lightpath', 'CSC Holdings LLC', 'Cablevision Lightpath CT LLC'}
+Skywave Wireless, Inc.: {'Skywave Wireless, Inc.', 'Skywave'}
+Aptitude Internet LLC: {'Aptitude Internet LLC', 'Aptitude Internet Solutions'}
+Lakeland Communications, Inc.: {'Lakeland Communications', 'Lakeland Communications, Inc.', 'Lakeland Communications Group, LLC dba Lakeland Communications'}
+Ziply Fiber: {'Ziply Fiber', 'Northwest Fiber, LLC', 'Northwest Fiber, LLC dba Ziply Fiber'}
+Big Bend Telephone Company, Inc.: {'Big Bend Telephone Company', 'Nevill Holdings, Inc.', 'Big Bend Telephone Company, Inc.', 'Big Bend Telecom'}
+Huxley Communications Cooperative: {'Huxley Communications', 'HUXLEY COMMUNICATIONS COOPERATIVE', 'Huxley Communications Cooperative'}
+Rowe Wireless Networks LLC: {'Rowe Wireless Networks LLC', 'Rowe Internet'}
+Mediacom Communications Corp.: {'Mediacom California LLC', 'Mediacom Wisconsin LLC', 'Mediacom Minnesota LLC', 'Mediacom Arizona LLC', 'Mediacom Indiana LLC', 'MCC Missouri LLC', 'Mediacom Southeast LLC', 'Mediacom Delaware LLC', 'Mediacom Illinois LLC', 'MCC Georgia LLC', 'Mediacom Iowa LLC', 'Mediacom Communications Corp.'}
+Montana Internet Corporation: {'Montana Internet', 'The Montana Internet Corporation', 'Montana Internet Boulder', 'Montana Internet Corporation'}
+AMA Communicaitons, L.L.C.: {'American Broadband Communications et al.', 'AMA TechTel Communications', 'AMA Communications, L.L.C.', 'AMA Communicaitons, L.L.C.'}
+Dell Telephone Cooperative, Inc.: {'Dell Telephone Cooperative, Inc.', 'Delcom FBD NM', 'Delcom FBD TX', 'Delcom, Inc.', 'Dell Telephone Coop'}
+Getwireless.net: {'Getwireless.net', 'Getwireless.net, Inc.'}
+Cox Communications, Inc.: {'Cox Communications, Inc.', 'Cox Communications'}
+Santa Rosa Telephone Cooperative, Inc.: {'Santa Rosa Telephone Coop, Inc.', 'Santa Rosa Telephone Coop., Inc. CLEC', 'SANTA ROSA TELEPHONE COOPERATIVE - 0004278420', 'SantaRosa Telephone Cooperative - 0004278420', 'Santa Rosa Telephone Cooperative, Inc.', 'SANTA ROSA TELEPHONE COOPERATIVE - 0005063615', 'Santa Rosa Telephone Cooperative - 0004278420'}
+Savage Communications Inc.: {'SCI', 'Savage Communications Inc.'}
+Peoples Telecom, LLC: {'Peoples Rural Telephone Cooperative Corporation, Inc.', 'Peoples Telecom, LLC'}
+Marne & Elk Horn Telephone Company: {'Walnut Telephone Company', 'Marne Elk Horn', 'Marne & Elk Horn Telephone Company'}
+City of Wilson: {'City of Wilson', 'Greenlight'}
+Green Hills Telephone Corporation: {'Green Hills Telephone Corporation', 'Green Hills Communications, Inc. dba: Green Hills Technologies', 'Green Hills Technologies'}
+Hamilton.net, Inc.: {'Hamilton.net, Inc.', 'Nedelco, Incorporated', 'Hamilton.net Inc'}
+Scott County: {'Scott County Telephone Cooperative', 'Scott County'}
+Sycamore Telephone Company: {'Sycamore Telephone Company', 'SYCAMORE TELEPHONE COMPANY', 'Sycamore Telephone Co'}
+Bluestem Network LLC: {'Bluestem Network LLC', 'Bluestem Fiber LLC', 'Bluestem Network'}
+Pioneer Wireless, Inc.: {'Pioneer Wireless, Inc., d/b/a', 'Pioneer Wireless Inc. dba Pioneer Broadband', 'Pioneer Wireless, Inc.'}
+Quantum Telecommunications, Inc.: {'Quantum Telecommunications, Inc.', 'Quantum Internet & Telephone'}
+Panhandle Telephone Cooperative, Inc.: {'PTCI', 'Panhandle Telephone Coop. Inc.', 'Panhandle Telephone Cooperative, Inc.', 'Panhandle Telephone Cooperative', 'Panhandle Telecommunication Systems Inc'}
+SLIC Network Solutions, Inc.: {'Slic Network Solutions, Inc.', 'SLIC Network Solutions, Inc.', 'Atlas Connectivity, LLC'}
+Poka Lambro Telecommunications, Ltd.: {'Poka Lambro Telephone Cooperative, Inc.', 'Poka Lambro Telecommunications, Ltd.'}
+Verizon Communications Inc.: {'Verizon New York Inc.', 'Verizon Washington DC Inc.', 'Verizon New Jersey Inc.', 'Verizon New England Inc.', 'Verizon Washington, DC Inc.', 'Verizon Delaware LLC', 'Verizon Maryland LLC', 'Cellco Partnership', 'Verizon Virginia LLC', 'Verizon Wireless', 'Verizon Communications Inc.', 'Verizon Pennsylvania LLC'}
+Declaration Networks Group, Inc: {'Declaration Networks Group, Inc', 'Declaration Networks Group, Inc.', 'NeuBeam'}
+QCOL, Inc.: {'QCOL Inc', 'QCOL, Inc.'}
+Farmers Mutual Telephone Company of Stanton, Iowa: {'The Farmers Mutual Telephone Company of Stanton, Iowa', 'Farmers Mutual Telephone Company (Stanton)', 'Farmers Mutual Telephone Company of Stanton, Iowa'}
+Cambridge Telephone Company, Inc.: {'CTC TELECOM INC', 'Cambridge Telephone Company, Inc.', 'CTC Telecom', 'CambridgeTelephoneCompany'}
+Unified Communications, Inc.: {'Unified Communications, Inc.', 'ZochNet'}
+Farmers Telephone Company: {'Farmers Telphone Company (OmniTel)', 'Farmers Telephone Company', 'Farmers Mutual Telephone Company-Nora Springs', "Farmers' Telephone Company", 'Farmers Telephone Company-Batavia'}
+Spiral Communications, LLC: {'Spiral Communications, LLC', 'Spiral Communications'}
+CUMBERLAND TELEPHONE COMPANY: {'Cumberland Telephone Company', 'CUMBERLAND TELEPHONE COMPANY'}
+Kingdom Telecommunications Inc: {'PHYNX', 'Kingdom Telephone Company', 'Kingdom Telecommunications Inc'}
+St Paul Coop Telephone Assoc: {'St. Paul Cooperative Telephone', 'St Paul Coop Telephone Assoc'}
+Wiggins Telephone Association: {'Wiggins Telephone Association'}
+ATN International, Inc.: {'ATN International, Inc.', 'Viya Wireless', 'Vitelcom Cellular, Inc. d/b/a Innovative Wireless', 'Viya Powernet', 'Virgin Islands Telephone Corp. d/b/a Innovative Telephone'}
+Pathway Com-Tel, Inc.: {'pathway', 'Alenco Communications, Inc.', 'Pathway Com-Tel, Inc.'}
+Digital Connections, Inc.: {'Prodigi', 'Digital Connections, Inc.'}
+Pathwayz Communications, Inc.: {'PATHWAYZ Communications, Inc.', 'Pathwayz Communications, Inc.'}
+Northeast Missouri Rural Telephone Company: {'Northeast Missouri Rural Telephone Company'}
+Winnebago Cooperative Telecom Association: {'Winnebago Cooperative Telecom Association', 'Winnebago Cooperative Telecom Association-CLEC'}
+Coon Valley Co-op Telephone Association, Inc.: {'Coon Valley Cooperative Telephone Association', 'Coon Valley Co-op Telephone Association, Inc.', 'Coon Valley Cooperative Telephone Association, Inc.'}
+Country Wireless, LLC: {'Country Wireless', 'Country Wireless LLC', 'Country Wireless, LLC'}
+NEIT Services, LLC: {'Northeast Iowa Telephone Company', 'NEIT Services LLC', 'NEIT Services, LLC'}
+Docomo Pacific: {'Docomo Pacific', 'NTT DoCoMo, Inc.', 'Docomo Pacific, Inc.'}
+Hawaii Dialogix Telecom LLC: {'Hawaii Dialogix Telecom, LLC', 'Hawaii Dialogix Telecom LLC'}
+AirCell: {'AIRCELL INC', 'AirCell', 'AIRCELL Inc.'}
+Mark Twain Communications Company: {'Mark Twain Rural Telephone Company', 'Mark Twain Communications Company'}
+FTC Diversified Services, LLC: {'FTC Diversified Services LLC', 'Farmers Telephone Cooperative, Inc. (SC)', 'FTC Diversified Services, LLC'}
+Southwest Arkansas Telephone Cooperative, Inc.: {'Southwest Arkansas Telephone Cooperative Inc', 'Southwest Arkansas Telephone Cooperative, Inc.', 'SouthwestArkansasTelephone'}
+CenturyLink, Inc.: {'CenturyLink, Inc.', 'CenturyLink'}
+Hilliary Communications, LLC: {'Hilliary Communications, LLC', 'Electra Telephone Company', 'Electra Telephone Co', 'Oklahoma Western Telephone Company', 'Tatum Telephone Co', 'Medicine Park Telephone Company', 'Southern Plains Cable', 'Southern Plains Cable, LLC', 'Tatum Telephone Company'}
+NexGenAccess: {'NexGenAccess', 'NexGenAccess Inc.', 'NexGenAccess Inc'}
+Socket Telecom, LLC: {'Socket Telecom, LLC', 'Socket Telecom', 'Socket Telecom LLC'}
+Armstrong Holdings, Inc.: {'Armstrong Telephone Company-PA', 'Armstrong Utilities, Inc.', 'Armstrong Telephone Company - ND', 'Armstrong Telephone Company - NY', 'Armstrong Telephone Company-NY', 'Armstrong Telecommunications Inc', 'ArmstrongUtilitiesInc', 'Armstrong Telephone Company - Northern Division', 'Armstrong Telephone Company - PA', 'Armstrong Telecommunications, Inc.', 'Armstrong Holdings, Inc.'}
+Midcontinent Communications: {'Midcontinent Communications'}
+United Wireless Communications, Inc.: {'United Telephone Association, Inc.', 'United Wireless Communications', 'United Wireless Communications, Inc.'}
+Cincinnati Bell Inc.: {'Hawaiian Telcom, Inc.', 'Hawaiian Telcom Inc', 'Cincinnati Bell Inc.', 'Cincinnati Bell Telephone Company LLC', 'Cincinnati Bell Extended Territories LLC'}
+Frontier Communications Corporation: {'Frontier Communications Corporation'}
+GeoLinks: {'California Internet, L.P.', 'California Internet', 'GeoLinks'}
+Gardonville Cooperative Telephone Association: {'Wisper', 'Gardonville Cooperative Telephone Association', 'Gardonville Coop. Tele. Assn', 'Gardonville Coop.  Tele. Assn.', 'Gardonville Telephone'}
+Horizon Communications, Inc.: {'Columbine Telephone Company, Inc. dba Silver Star Communications', 'Silver Star Communications', 'Millennium Networks, LLC', 'Horizon Communications, Inc.', 'Silver Star Telephone Company, Inc. dba Silver Star Communications'}
+Chariton Valley Communications Corporation: {'Chariton Valley Communications Corporation', 'Chariton Valley Telephone Corporation'}
+Barry Technology Services: {'Barry Technology Services', 'Barry Electric Cooperative'}
+Farmers Mutual Telephone Company: {'Farmers Mutual Telephone Company (OH)', 'FarmersMutualTelephoneCompany', 'Federated Telephone Cooperative', 'FARMERS MUTUAL TELEPHONE COMPANY', 'Farmers Mutual Telephone Company-Nora Springs', 'Farmers Mutual Telephone Company (OmniTel)', 'Farmers Mutual Telephone Company'}
+Newport Utilities: {'Newport Utilities'}
+Valley Telephone Cooperative, Inc.: {'Valley Telephone Cooperative, Inc. (AZ/NM)', 'Valley Telephone Cooperative, Inc. (TX)', 'VTCI', 'Valley Telephone Cooperative, Inc.', 'Valley Telecom Group'}
+1stel, Inc.: {'1stel, Inc', '1stelinc', '1stel, Inc.'}
+XIT Rural Telephone Cooperative, Inc.: {'XIT Rural Telephone Cooperative, Inc.'}
+Moundridge Telephone Co.: {'The Moundridge Telephone company, Inc.', 'Moundridge Telephone Co.', 'The Moundridge Telephone Company'}
+Southern Montana Telephone Company: {'Southern Montana Telephone Company'}
+Wabash Communications, Inc.: {'Wabash Communications, Inc.', 'Wabash Mutual Telephone Company', 'Wabash Communications'}
+Charter Communications Inc: {'Charter Communications Inc', 'Charter Communications', 'Charter Communications, Inc.'}
+Massena Telephone Company: {'Massena Telephone Company'}
+All West Communications, Inc.: {'All West Communications, Inc.', 'All West/Wyoming, Inc.', 'All West Communications', 'All West/Wyoming Inc.', 'All West/Utah Inc.', 'All West/Utah, Inc.'}
+Nova Cablevision, Inc.: {'Nova Cablevision, Inc.'}
+Miles Communications, Inc.: {'Miles Enterprises, Inc.', 'Miles Communications, Inc.', 'Enhanced Telecommunications'}
+NMSURF, Inc.: {'NMSURF(Eldorado50)', 'CNSP', 'NMSURF (Franklin)', 'NMSURF (Rabbit)', 'NMSURF(Pearl)', 'NMSURF(Rio Rancho)', 'NMSURF(Bernalillo)', 'NMSURF (Main)', 'NMSURF (Chamita)', 'NMSURF (CP)', 'NMSURF (RA)', 'NMSURF (Sandia)', 'NMSURF (Pajarito)', 'NMSURF (PC)', 'NMSURF(LaBajada)', 'NMSURF (Main100)', 'NMSURF (Canoncito)', 'NMSURF (Encantado)', 'NMSURF (Hernandez)', 'NMSURF (Algodones)', 'NMSURF (Tesuque Peak)', 'NMSURF(Bernalillo50)', 'NMSURF (Ortiz)', 'NMSURF (WGHOA)', 'NMSURF (MainGiga)', 'NMSURF(Santa Cruz)', 'NMSURF (Budaghers)', 'NMSURF(LP50)', 'NMSURF(LP)', 'NMSURF(SanIDay)', 'NMSURF, Inc.'}
+Steelville Telephone Exchange Inc: {'Steelville Telephone Exchange, Inc.', 'Steelville Telephone Exchange Inc'}
+Marquette-Adams Telephone Cooperative, Inc.: {'Marquette-Adams Telephone', 'Marquette-Adams Telephone Cooperative, Inc.'}
+Western Iowa Wireless: {'Western Iowa Wireless'}
+TruVista Communications of Georgia, LLC: {'TruVista Communications of Georgia, LLC', 'Chester Telephone Company', 'Truvista Communications of Georgia, LLC'}
+Blue Ridge Cable Technologies, Inc.: {'Blue Ridge Communications', 'Pencor Services, Inc.', 'Blue Ridge Cable Technologies, Inc.'}
+yondoo Broadband, LLC: {'yondoo Broadband, LLC'}
+BEK Communications Cooperative: {'BEK Communications Cooperative'}
+Home Communications, Inc.: {'Home Enterprises, Inc.', 'Home Communications, Inc.', 'Home Communications Inc'}
+ThinkBig Networks, LLC: {'ThinkBig Networks, LLC'}
+Halstad Telephone Company: {'Halstad Telephone', 'Halstad Telephone Company'}
+Zito West Holding, LLC: {'Zito Media', 'Zito Media, LP', 'Zito West Holding, LLC'}
+One Ring Networks, Inc.: {'One Ring Networks', 'One Ring Networks, Inc.'}
+Cal.net, Inc.: {'Cal.net, Inc.', 'Cal.net Inc.'}
+Southwest Minnesota Broadband Services: {'Southwest Minnesota Broadband Services', 'Southwest MN Broadband Services'}
+Windstream Holdings, Inc.: {'Windstream Conestoga Inc.', 'Windstream Communications Inc.', 'Windstream Nebraska Inc.', 'Windstream Montezuma, Inc', 'Windstream Arkansas LLC', 'Windstream Montezuma Inc.', 'Windstream Western Reserve, Inc', 'Windstream Ohio Inc.', 'Windstream Standard LLC', 'Windstream Kentucky East, LLC', 'Windstream Mississippi, LLC', 'Windstream Oklahoma, LLC', 'Windstream Concord Telephone, Inc', 'Windstream Kentucky West, LLC', 'Valor Telecommunications of Texas, LLC', 'Windstream Accucomm Telecommunications, LLC', 'Windstream Pennsylvania, LLC', 'Georgia Windstream LLC.', 'Windstream Georgia Telephone, LLC', 'Windstream Western Reserve Inc.', 'Windstream New York, Inc.', 'Windstream EN-TEL LLC', 'Georgia Windstream, LLC', 'Windstream Sugar Land Inc.', 'Windstream Holding Inc', 'Windstream Lexcom Communications, Inc.', 'Windstream NorthStar, LLC', 'Windstream Kentucky East LLC', 'Oklahoma Windstream, LLC', 'Windstream NorthStar LLC', 'Windstream Concord Telephone Company', 'Windstream D&E Systems, Inc.', 'Windstream ARKANSAS, LLC', 'Windstream Buffalo Valley, Inc', 'Windstream Standard, LLC', 'Windstream Georgia Telephone LLC', 'Windstream Ohio, Inc.', 'Windstream Georgia Communications LLC', 'Windstream Mississippi LLC.', 'Windstream Pennsylvania LLC.', 'Windstream Alabama LLC', 'Windstream D&E, Inc.', 'Windstream Missouri, Inc.', 'Windstream Kentucky West LLC', 'Windstream Nebraska, Inc.', 'Windstream North Carolina LLC', 'Windstream South Carolina, LLC', 'Windstream Holdings, Inc.', 'Texas Windstream, Inc.', 'Windstream EN-TEL, LLC', 'Windstream Iowa Telecommunications, Inc.', 'Windstream Georgia LLC', 'Windstream Conestoga Telephone, Inc', 'Windstream Lexcom Communications Inc.', 'Windstream Georgia, LLC', 'Windstream Georgia Communications, LLC', 'Valor Telecommunications of Texas LP', 'Windstream D&E Systems Inc.', 'Windstream Accucomm Telecom LLC', 'Windstream D&E Inc.', 'Windstream Communications Kerrville LLC', 'Windstream New York Inc.', 'Windstream Alabama, LLC', 'Windstream Buffalo Valley Inc.', 'Oklahoma Windstream LLC', 'Windstream Oklahoma LLC', 'Windstream Lakedale Inc.', 'Windstream Communications Kerrville, LLC', 'Texas Windstream Inc.', 'Windstream South Carolina LLC', 'Windstream Florida Inc.', 'Windstream Lakedale, Inc.', 'Windstream Iowa Communications Inc.', 'Windstream North Carolina, LLC', 'Windstream Missouri Inc.', 'Windstream Holding, Inc.', 'Windstream Sugar Land, Inc', 'Windstream Communications, Inc.', 'Windstream Florida, Inc.'}
+Paul Bunyan Rural Telephone Cooperative: {'Paul Bunyan Communications', 'Paul Bunyan Rural Telephone Cooperative'}
+Nuvera Communications, Inc.: {'New Ulm Telecom RWF', 'NU-Telecom', 'Nuvera Communications, Inc,', 'Sleepy Eye Telephone Company', 'New Ulm Telecom, Inc.', 'Peoples Telephone Company', 'Nuvera', 'Hutchinson Telecommunications, Inc.', 'NU Telecom Glencoe', 'Hutchinson Telephone Company', 'Nuvera Communications, Inc.', 'Scott Rice Telephone Co', 'Nuvera Communications'}
+Horry Telephone Cooperative, Inc.: {'Bluewave Communications', 'Connected Investments', 'Horry Telephone Cooperative, Inc', 'Horry Telephone Cooperative, Inc.', 'Horry Telephone Cooperative Inc.'}
+South Central Wireless Inc.: {'SCTelcom', 'South Central Wireless Inc.', 'SCTELCOM', 'South Central Telephone Association, Inc.'}
+Norvado, Inc.: {'Chequamegon Communications Cooperative, Inc.', 'Norvado', 'Norvado, Inc.'}
+Central Arkansas Telephone Cooperative, Inc.: {'Central Arkansas Telephone Cooperative,  Inc', 'CentralArkansasTeleCoop', 'Central Arkansas Telephone Cooperative, Inc.'}
+Central Texas Telephone Cooperative, Inc.: {'Central Texas Telephone Cooperative, Inc.', 'Central Texas Tel Coop Inc.', 'Central Texas Tel Coop Inc', 'CENTRAL TEXAS TELEPHONE COOPERATIVE, INC.'}
+Consolidated Communications, Inc.: {'Consolidated Communications of Maine Company', 'Berkshire Telephone Corp.', 'Chautauqua & Erie Telephone Corporation', 'Consolidated Communications, Inc.', 'Consolidated Communications of Northland Company', 'Consolidated Communications Holdings, Inc.', 'Consolidated Communications of Vermont Company LLC', 'Consolidated Communicaitons', 'Taconic Telephone Corp.', 'Consolidated Communications', 'Consolidated Communications of Northern New England, LLC'}
+Reedsburg Utility Commission: {'Reedsburg Utility Commission'}
+CTI Fiber: {'Computer Techniques, Inc.', 'CTI Fiber'}
+Northwest Communications, Inc.: {'Northwest Communications, Inc.', 'Northwest Telephone Cooperative'}
+Benton Ridge Telephone Company: {'Benton Ridge Telephone', 'Community Fiber Solutions', 'W A T C H TV', 'Community Fiber Solutions Incorporated', 'Benton Ridge Telephone Company', 'Watch Communications', 'Benton Ridge Telephone Co'}
+Valley Communications Association, LLC: {'Valley Communications Association, LLC'}
+San Bruno CityNet Services: {'San Bruno CityNet Services', 'City of San Bruno'}
+MCC Network Services, LLC: {'MCC Network Services, LLC', 'MCC Networks'}
+LTD Broadband LLC: {'LTD Broadband LLC', 'LTD Broadband'}
+Climax Telephone Company: {'CTS Telecommunications Corporation', 'CTS Telecom Inc', 'Climax Telephone Company'}
+Custer Telephone Cooperative Inc.: {'Custer Telephone Broadband Services LLC', 'Custer Telephone Cooperative, Inc.', 'Custer Telephone Cooperative Inc.'}
+Bloosurf: {'Bloosurf', 'Pocomoke Holdings'}
+Bay Springs Telephone Company, Inc.: {'Bay Springs Telephone Co., Inc.', 'Bay Springs Telephone Company, Inc.', 'Telephone Electronics Corporation'}
+Atlantic Broadband Finance, LLC: {'Atlantic Broadband Finance, LLC', 'Acquisitions Cogeco Cable Holdings II Inc.'}
+Spring Grove Communications: {'Spring Grove Communications', 'Spring Grove Telephone Company'}
+Sac County Mutual Telephone Company: {'Sac County Mutual Telephone Co', 'Sac County Mutual Telephone Company'}
+H&B Enterprises Inc.: {'H&B Communications, Inc', 'H&B Enterprises Inc.', 'H & B Cable', 'H&B Cable, Inc', 'H & B Communcations'}
+Falcon Internet: {'Falcon Internet'}
+Grand Mound Cooperative Telephone Association: {'Grand Mound Cooperative Telephone Association'}
+FARMERS MUTUAL TELEPHONE COMPANY: {'Federated Telephone Cooperative', 'FARMERS MUTUAL TELEPHONE COMPANY', 'FarmersMutualTelephoneCompany', 'Farmers Mutual Telephone Company'}
+PocketiNet Communications, Inc.: {'PocketiNet Communications Inc.', 'PocketiNet Communications, Inc.'}
+Broadband Corp: {'Broadband Corp.', 'Broadband Corp'}
+IdeaTek Telcom, LLC: {'IdeaTek Telcom, LLC', 'IdeaTek'}
+Union Telephone Company: {'Union Telephone Company', 'Union Holding Corp.'}
+Daktel Communications, LLC: {'Daktel Communications LLC', 'Dakota Central Telecommunications Cooperative', 'Daktel Communications, LLC'}
+Palmetto Telephone Communications, LLC: {'Palmetto Rural Telephone Cooperative, Inc.', 'Palmetto Telephone Communications, LLC'}
+Cumby Telephone Coop., Inc.: {'Personal Touch Communications', 'Cumby Telephone Cooperative, Inc.', 'Cumby Telephone Coop., Inc.'}
+Shenandoah Telecommunications Company: {'Glo Fiber', 'Shentel', 'Shenandoah Telecommunications Company', 'Shenandoah Telephone Company'}
+Siyeh Communications: {'Siyeh Communications'}
+Ponderosa Communications, Inc.: {'The Ponderosa Telephone Co.', 'Table Top Telephone Company, Inc', 'Ponderosa Cablevision', 'Ponderosa Edge', 'TABLE TOP TELEPHONE COMPANY', 'Ponderosa Communications, Inc.', 'The Ponderosa Telephone Co'}
+Lincolnville Telephone Company: {'Lincolnville Networks, Inc.', 'Lincolnville Telephone Company', 'TIDEWATER TELECOM, INC.', 'LINCOLNVILLE COMMUNICATIONS, INC.'}
+Zirkel Wireless: {'ZIRKEL Wireless', 'Zirkel Wireless'}
+Penasco Valley Telephone Cooperative, Inc.: {'PVT', 'Penasco Valley Telephone Cooperative, Inc.', 'Penasco Valley Telephone Coop', 'PVT Networks, Inc.'}
+AMG Technology Investment Group LLC: {'AMG Technology Investment Group', 'AMG Technology Investment Group LLC', 'Nextlink Residential'}
+Pembroke Telephone Company, Inc.: {'PembrokeAdvancedCommunications', 'Pembroke Telephone Company, Inc.', 'Pembroke Advanced Communications, Inc.', 'Pembroke Telephone Company, Inc'}
+Inland Cellular LLC: {'Inland Cellular LLC', 'Inland Cellular Telephone Company', 'Inland Cellular'}
+Rainbow Telecommunications Association, Inc.: {'RAINBOW COMMUNICATIONS', 'Rainbow Telecommunications Association, Inc.', 'RAINBOW TELECOMMUNICATIONS'}
+Northwoodsconnect: {'Northwoods Communication Technologies', 'Northwoodsconnect'}
+Hillsboro Telephone Company: {'Hillsboro Telephone Co Inc', 'Hillsboro Telephone Company, Inc.', 'Hillsboro Telephone Company'}
+Heart of Iowa Communications Cooperative: {'Heart of Iowa Communications Cooperative', 'Heart of Iowa Ventures'}
+Ronan Telephone Co: {'Access Montana', 'Ronan Telephone Co', 'AccessMontana', 'CommunityTel, Inc.'}
+Reservation Telephone Cooperative: {'Reservation Telephone Cooperative'}
+Home Telephone ILEC, LLC d/b/a Home Telecom: {'Home Telephone Company, Inc. (SC)', 'Home Telecom', 'Home Telephone ILEC, LLC d/b/a Home Telecom'}
+Tri County Telephone Association, Inc.: {'TC WIRELESS', 'TC Wireless, Inc.', 'Tri-County Telephone Association-KS', 'Tri-County Telephone Association, Inc. (KS)', 'TRI-COUNTY TELEPHONE', 'Council Grove Telephone Company', 'Tri County Telephone Association, Inc.', 'TRI County Telephone Association, Inc.'}
+KanOkla Telephone Association: {'KanOkla Telephone Association, Inc.', 'KanOkla Telephone Association'}
+Hartington Telecommunications Co., Inc.: {'Hartelco', 'Hartington Telecommunications Co., Inc.'}
+Martell Enterprises, Inc.: {'Nehalem Telecommunications, Inc.', 'PEND OREILLE TELEPHONE COMPANY', 'PEND OREILLE  TELEPHONE COMPANY', 'Martell Enterprises, Inc.', 'Rural Telephone', 'RURAL TELEPHONE COMPANY'}
+West River Telecommunications Cooperative: {'West River Telecommunications Cooperative'}
+Newbreak Communications: {'Newbreak Communications', 'Newbreak Management Company', 'Newbreak Management LLC'}
+XL Broadband, Inc.: {'XL Broadband, Inc.', 'XLBroadband'}
+Comcell, Inc.: {'Community Telephone', 'Comcell, Inc.', 'Community Telephone Co., Inc.', 'Comcell'}
+Taylor Telephone Cooperative, Inc.: {'Taylor Telephone Cooperative, Inc.'}
+Ligtel Communications: {'Ligonier Telephone Co., Inc.', 'LIGTEL COMMUNICATIONS INC.', 'Ligtel Communications'}
+B2X Online, Inc.: {'B2X Online, Inc', 'B2X Online, Inc.'}
+Coleman County Telephone Cooperative, Inc.: {'Coleman County Telephone Coop, Inc', 'Coleman County Telephone Cooperative, Inc.', 'CUSTOM SPEED', 'Coleman County Telephone Cooperative Inc'}
+South Arkansas Telephone Co.: {'South Arkansas Telephone Co.', 'TLB, Inc.', 'Airecast LLC', 'AireCast, LLC'}
+Northern Arapaho Tribal Industries: {'Northern Arapaho Tribal Industries', 'Wind River Internet'}
+Bandera Electric Cooperative, Inc.: {'BEC Fiber', 'Bandera Electric Cooperative, Inc.'}
+Wilson Creek Communications, LLC: {'Wilson Creek Communications', 'Wilson Creek Communications, LLC'}
+Corn Belt Telephone: {'Corn Belt Telephone', 'Corn Belt Telephone Company'}
+LICT Corporation: {'Central Scott Telephone Company, Inc.', 'Cal-Ore Communications Inc.', 'Western New Mexico Telephone Company, Inc.', 'WNM Communications Corporation', 'CentraCom', 'CENTRAL SCOTT', 'Upper Peninsula Telephone Co', 'LICT Corporation', 'CubaCity', 'JBN Telephone Company, Inc.', 'JBN Telephone', 'Michigan Central Broadband Company', 'Cuba City Telephone Exchange Co', 'Belmont Telephone Company', 'Giant Communications, Inc.', 'Cal-Ore Communications, Inc.', 'Haviland Telephone DBA Haviland Broadband', 'CS Technologies, Inc.', 'Giant Communications', 'Michigan Broadband Services', 'Haviland Broadband', 'skyline Telecom', 'Bretton Woods Tel.Co., Inc.', 'Dixon Acquisition LLC', 'Bretton Woods Telephone Company', 'Belmont'}
+Siuslaw Broadband, LLC: {'Hyak', 'Siuslaw Broadband, LLC'}
+Alyrica Networks, Inc.: {'ALYRICA NETWORKS INC. - 100/10 custom plan', 'ALYRICA NETWORKS INC..', 'ALYRICA NETWORKS INC.', 'Alyrica Networks, Inc.'}
+St. John Telephone, Inc.: {'St. John Telephone, Inc.', 'St. John Cable Co.', 'Colfax Highline Cable Co.'}
+Citynet, LLC: {'Citynet LLC', 'Citynet, LLC', 'Citynet Holdings, LLC'}
+Leap Communications, LLC: {'Leap Communications, LLC'}
+Starry, Inc.: {'Starry, Inc', 'Starry, Inc.'}
+Easton Utilities Commission: {'Eeaston Cable', 'Easton Cable', 'Easton Utilities Commission'}
+Surfnet Communications: {'Surfnet Communications'}
+San Diego Broadband: {'San Diego Broadband'}
+Local Internet Service Company: {'Local Internet Service Company', 'LISCO'}
