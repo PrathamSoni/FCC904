@@ -1,0 +1,317 @@
+,bidder,t+l_weight,tier,latency,TechCode
+0,"1stel, Inc.",20,Above Baseline,Low,"{40, 70, 50, 30}"
+1,4-Corners Consortium,20,Above Baseline,Low,
+2,AB Indiana LLC,20,Above Baseline,Low,
+3,ACT,0,Gigabit,Low,
+4,"AMA Communicaitons, L.L.C.",20,Above Baseline,Low,"{70, 10, 42, 11, 50, 30}"
+5,AMG Technology Investment Group LLC,0,Gigabit,Low,"{50, 70}"
+6,AirCell,20,Above Baseline,Low,{70}
+7,"Albion Telephone Company, Inc.",0,Gigabit,Low,"{50, 11, 70}"
+8,"All West Communications, Inc.",0,Gigabit,Low,"{70, 10, 42, 12, 50}"
+9,"Allen's TV Cable Service, Inc.",0,Gigabit,Low,"{50, 43}"
+10,Altice,20,Above Baseline,Low,"{41, 42, 43, 50}"
+11,"Alyrica Networks, Inc.",20,Above Baseline,Low,"{50, 11, 70, 30}"
+12,Farmers Telephone Company,0,Gigabit,Low,{50}
+13,Amherst Telephone Company,0,Gigabit,Low,"{50, 11}"
+14,Aptitude Internet LLC,0,Gigabit,Low,{70}
+15,"Armstrong Holdings, Inc.",0,Gigabit,Low,"{10, 43, 50, 42}"
+16,"Arrowhead Electric Cooperative, Inc.",0,Gigabit,Low,{50}
+17,"Atlantic Broadband Finance, LLC",0,Gigabit,Low,"{50, 43}"
+18,Atlantic Telephone Membership Corporation,0,Gigabit,Low,"{42, 11, 12, 50, 20}"
+19,"B2X Online, Inc.",50,Minimum,Low,{70}
+20,BEK Communications Cooperative,0,Gigabit,Low,{50}
+21,"Baldwin Telecom, Inc.",0,Gigabit,Low,"{42, 11, 50}"
+22,"Bandera Electric Cooperative, Inc.",0,Gigabit,Low,{50}
+23,Baraga Telephone Company Inc.,0,Gigabit,Low,"{50, 11, 70}"
+24,Barry Technology Services,0,Gigabit,Low,{50}
+25,"Bay Springs Telephone Company, Inc.",0,Gigabit,Low,"{50, 11, 20, 30}"
+26,Bays-ET Highspeed Internet LLC,0,Gigabit,Low,"{50, 70, 30}"
+27,Benton Ridge Telephone Company,20,Above Baseline,Low,"{10, 50, 70}"
+28,"Big Bend Telephone Company, Inc.",0,Gigabit,Low,"{50, 11, 60, 70}"
+29,"Blackfoot Telephone Cooperative, Inc.",0,Gigabit,Low,"{70, 10, 11, 12, 50, 20, 30}"
+30,Bloosurf,35,Baseline,Low,"{50, 70}"
+31,"Blue Ridge Cable Technologies, Inc.",0,Gigabit,Low,{43}
+32,Bluestem Network LLC,0,Gigabit,Low,"{50, 70}"
+33,Broadband Corp,20,Above Baseline,Low,"{50, 70}"
+34,"Bruce Telephone Company, Inc.",0,Gigabit,Low,"{10, 12, 50}"
+35,"Bug Tussel Wireless, LLC",50,Minimum,Low,{70}
+36,Charter Communications Inc,0,Gigabit,Low,"{50, 43}"
+37,"Cal.net, Inc.",0,Gigabit,Low,{70}
+38,GeoLinks,0,Gigabit,Low,"{50, 70}"
+39,"Cambridge Telephone Company, Inc.",50,Minimum,Low,"{50, 11, 12, 70}"
+40,"Carolina West Wireless, Inc.",50,Minimum,Low,{70}
+41,"Cass Cable TV, Inc.",0,Gigabit,Low,
+42,Cellular Services LLC,0,Gigabit,Low,{50}
+43,"Central Arkansas Telephone Cooperative, Inc.",0,Gigabit,Low,"{50, 11}"
+44,Central Broadband Consortium,20,Above Baseline,Low,
+45,"Central Texas Telephone Cooperative, Inc.",0,Gigabit,Low,"{70, 50, 11, 30}"
+46,"Centre WISP Venture Company, LLC",0,Gigabit,Low,
+47,"CenturyLink, Inc.",0,Gigabit,Low,"{70, 10, 11, 12, 50, 30}"
+48,Chariton Valley Communications Corporation,0,Gigabit,Low,{50}
+49,"Cherry Capital Connection, LLC",0,Gigabit,Low,"{50, 70, 30}"
+50,Cincinnati Bell Inc.,0,Gigabit,Low,"{10, 42, 12, 11, 50, 30}"
+51,Citizens Consortium,0,Gigabit,Low,
+52,Citizens Telephone Company,0,Gigabit,Low,"{40, 10, 50}"
+53,City of Farmington,0,Gigabit,Low,
+54,City of Wilson,0,Gigabit,Low,{50}
+55,"Citynet, LLC",0,Gigabit,Low,"{50, 70, 30}"
+56,Climax Telephone Company,0,Gigabit,Low,{50}
+57,Cloverland Electric Cooperative,0,Gigabit,Low,
+58,Co-op Connections Consortium,0,Gigabit,Low,
+59,"Coleman County Telephone Cooperative, Inc.",0,Gigabit,Low,"{10, 50, 70}"
+60,"Colorado Central Telecom, Inc.",35,Baseline,Low,"{50, 70}"
+61,"Comcell, Inc.",0,Gigabit,Low,{50}
+62,"ATN International, Inc.",20,Above Baseline,Low,"{0, 70, 41, 10, 42, 50, 30}"
+63,LocalTel Communications,35,Baseline,Low,"{10, 11, 70, 30}"
+64,CTI Fiber,0,Gigabit,Low,{50}
+65,Concho Valley Electric Cooperative Inc,0,Gigabit,Low,
+66,Conifer Communications,35,Baseline,Low,{70}
+67,"Starry, Inc.",0,Gigabit,Low,"{50, 70}"
+68,Connecting Rural America,0,Gigabit,Low,
+69,"Consolidated Communications, Inc.",0,Gigabit,Low,"{70, 40, 10, 11, 12, 42, 50, 20, 30}"
+70,Consortium 2020,0,Gigabit,Low,
+71,Consortium 904,35,Baseline,Low,
+72,Consortium of AEG and Heron Broadband I,0,Gigabit,Low,
+73,"Continental Divide Electric Cooperative, Inc.",0,Gigabit,Low,{50}
+74,Corn Belt Telephone,0,Gigabit,Low,"{50, 70}"
+75,"Country Wireless, LLC",0,Gigabit,Low,{70}
+76,"Cox Communications, Inc.",0,Gigabit,Low,"{50, 43, 42}"
+77,CUMBERLAND TELEPHONE COMPANY,0,Gigabit,Low,"{50, 11, 70}"
+78,"Cumby Telephone Coop., Inc.",0,Gigabit,Low,"{10, 50, 20}"
+79,Custer Telephone Cooperative Inc.,0,Gigabit,Low,"{70, 42, 11, 12, 50}"
+80,"DTC Cable, Inc.",0,Gigabit,Low,{50}
+81,"Daktel Communications, LLC",0,Gigabit,Low,{50}
+82,Data Stream,20,Above Baseline,Low,{70}
+83,Daviess-Martin County Rural Telephone Corporation,0,Gigabit,Low,"{50, 10}"
+84,"Declaration Networks Group, Inc",35,Baseline,Low,{70}
+85,"Dell Telephone Cooperative, Inc.",50,Minimum,Low,"{10, 50, 11, 70}"
+86,"Digital Connections, Inc.",0,Gigabit,Low,{50}
+87,"Digital Path, Inc.",35,Baseline,Low,
+88,"Direct Communications Rockland, Inc.",0,Gigabit,Low,"{50, 10}"
+89,Docomo Pacific,20,Above Baseline,Low,"{41, 42, 50}"
+90,Dovetel Communications LLC,0,Gigabit,Low,
+91,Easton Utilities Commission,0,Gigabit,Low,"{42, 50}"
+92,Emery Telcom,0,Gigabit,Low,"{42, 10, 50, 70}"
+93,Enduring Internet,20,Above Baseline,Low,
+94,"Etheric Networks, Inc.",0,Gigabit,Low,"{50, 70}"
+95,"FTC Diversified Services, LLC",0,Gigabit,Low,"{50, 11, 12}"
+96,Falcon Internet,20,Above Baseline,Low,"{10, 70}"
+97,FARMERS MUTUAL TELEPHONE COMPANY,0,Gigabit,Low,{50}
+98,Farmers Mutual Telephone Company,0,Gigabit,Low,"{70, 41, 10, 42, 11, 50}"
+99,"Farmers Mutual Telephone Company of Stanton, Iowa",0,Gigabit,Low,{50}
+100,"FastTrack Communications, Inc.",0,Gigabit,Low,{50}
+101,Federated Telephone Cooperative,0,Gigabit,Low,"{50, 70}"
+102,"FiberLight, LLC",35,Baseline,Low,
+103,"Flat Wireless, LLC",20,Above Baseline,Low,
+104,Fond du Lac Communications Inc,0,Gigabit,Low,
+105,Frontier Communications Corporation,0,Gigabit,Low,"{70, 10, 11, 12, 50}"
+106,Ziply Fiber,0,Gigabit,Low,"{10, 11, 12, 50}"
+107,Fundamental Holdings Corp dba Peak Internet,35,Baseline,Low,"{50, 70}"
+108,Gardonville Cooperative Telephone Association,0,Gigabit,Low,"{70, 10, 11, 12, 50}"
+109,Getwireless.net,0,Gigabit,Low,{70}
+110,"GigaBeam Networks, LLC",0,Gigabit,Low,{70}
+111,"Grain Communications Opportunity Fund II, L.P.",0,Gigabit,Low,
+112,Grand Mound Cooperative Telephone Association,0,Gigabit,Low,"{50, 70}"
+113,Grase Communications LLC,20,Above Baseline,Low,
+114,Great Plains Consortium,0,Gigabit,Low,
+115,Green Hills Telephone Corporation,0,Gigabit,Low,"{50, 11, 70}"
+116,H&B Enterprises Inc.,0,Gigabit,Low,"{50, 70}"
+117,Haefele TV Inc.,20,Above Baseline,Low,"{42, 50}"
+118,Halstad Telephone Company,0,Gigabit,Low,{50}
+119,Hamilton County Telephone Co-Op,0,Gigabit,Low,"{50, 11, 70}"
+120,"Hamilton.net, Inc.",0,Gigabit,Low,{70}
+121,Hankins Information Technology,20,Above Baseline,Low,{70}
+122,"Hartington Telecommunications Co., Inc.",0,Gigabit,Low,{50}
+123,Hawaii Dialogix Telecom LLC,20,Above Baseline,Low,"{70, 40, 42, 12, 50, 20, 30}"
+124,Heart of Iowa Communications Cooperative,0,Gigabit,Low,"{50, 10, 70}"
+125,MTC Cable,0,Gigabit,Low,"{41, 50, 11, 70}"
+126,"Hilliary Communications, LLC",0,Gigabit,Low,"{70, 10, 11, 12, 43, 50}"
+127,Hillsboro Telephone Company,0,Gigabit,Low,"{10, 50}"
+128,"Home Communications, Inc.",0,Gigabit,Low,{50}
+129,"Home Telephone ILEC, LLC d/b/a Home Telecom",40,Gigabit,High,"{10, 42, 50}"
+130,"HomeTown Broadband, Inc.",20,Above Baseline,Low,
+131,Hood Canal Communications,0,Gigabit,Low,"{10, 42, 50}"
+132,"Horizon Communications, Inc.",0,Gigabit,Low,"{70, 42, 11, 12, 50}"
+133,"Horry Telephone Cooperative, Inc.",0,Gigabit,Low,"{50, 10, 42, 12}"
+134,Hotwire Communications Ltd.,0,Gigabit,Low,"{41, 50, 42}"
+135,"Hughes Network Systems, LLC",60,Above Baseline,High,{60}
+136,Huxley Communications Cooperative,0,Gigabit,Low,"{10, 50}"
+137,IVS Comm Inc,50,Minimum,Low,
+138,"IdeaTek Telcom, LLC",20,Above Baseline,Low,{50}
+139,Inland Cellular LLC,20,Above Baseline,Low,{70}
+140,KanOkla Telephone Association,0,Gigabit,Low,"{10, 50, 11}"
+141,Kingdom Telecommunications Inc,0,Gigabit,Low,{50}
+142,LICT Corporation,0,Gigabit,Low,"{70, 40, 10, 11, 12, 42, 43, 50, 20, 30}"
+143,"LR Communications, Inc.",20,Above Baseline,Low,"{50, 70}"
+144,LTD Broadband LLC,0,Gigabit,Low,{70}
+145,"Lakeland Communications, Inc.",0,Gigabit,Low,"{50, 10, 42}"
+146,"Leap Communications, LLC",0,Gigabit,Low,{70}
+147,Lennon Telephone Company,0,Gigabit,Low,"{10, 42, 50}"
+148,Ligtel Communications,0,Gigabit,Low,"{50, 70}"
+149,Lincolnville Telephone Company,0,Gigabit,Low,"{10, 11, 20, 50}"
+150,Local Internet Service Company,0,Gigabit,Low,"{50, 20}"
+151,"Marquette-Adams Telephone Cooperative, Inc.",0,Gigabit,Low,{50}
+152,"MCC Network Services, LLC",0,Gigabit,Low,"{50, 30}"
+153,"MEI Telecom, Inc.",0,Gigabit,Low,"{50, 70}"
+154,Mark Twain Communications Company,35,Baseline,Low,"{10, 12, 50, 70}"
+155,Marne & Elk Horn Telephone Company,0,Gigabit,Low,"{40, 50, 12}"
+156,"Martell Enterprises, Inc.",60,Above Baseline,High,"{40, 10, 50}"
+157,Massena Telephone Company,50,Minimum,Low,"{10, 50, 70}"
+158,Mediacom Communications Corp.,20,Above Baseline,Low,"{42, 43}"
+159,"Mercury Wireless, Inc.",20,Above Baseline,Low,{70}
+160,"Micrologic, Inc.",0,Gigabit,Low,{70}
+161,Midcontinent Communications,0,Gigabit,Low,"{40, 70}"
+162,"Miles Communications, Inc.",0,Gigabit,Low,"{50, 11, 42, 70}"
+163,Consolidated Telephone Company,0,Gigabit,Low,"{70, 10, 11, 12, 50, 20}"
+164,"Mohave Electric Cooperative, Inc.",0,Gigabit,Low,
+165,Montana Internet Corporation,50,Minimum,Low,"{50, 10, 70, 30}"
+166,Moundridge Telephone Co.,0,Gigabit,Low,"{10, 50, 70}"
+167,Mountain View Telephone Company,0,Gigabit,Low,"{50, 10, 12}"
+168,Mountain West Technologies Corporation,20,Above Baseline,Low,"{10, 50, 70}"
+169,San Diego Broadband,20,Above Baseline,Low,{70}
+170,"NBVDS Investment, L.L.C.",0,Gigabit,Low,
+171,"NE Colorado Cellular, Inc.",50,Minimum,Low,{70}
+172,"NEIT Services, LLC",0,Gigabit,Low,"{50, 70}"
+173,"NMSURF, Inc.",20,Above Baseline,Low,{70}
+174,NRTC Phase I RDOF Consortium,0,Gigabit,Low,
+175,"NTS, Inc.",0,Gigabit,Low,"{40, 10, 50, 70}"
+176,"Net Ops Communications, LLC",0,Gigabit,Low,{70}
+177,Newbreak Communications,35,Baseline,Low,{70}
+178,Newport Utilities,0,Gigabit,Low,{50}
+179,NexGenAccess,50,Minimum,Low,{70}
+180,NexTier Consortium,0,Gigabit,Low,
+181,Northeast Missouri Rural Telephone Company,0,Gigabit,Low,"{50, 11, 70}"
+182,Northern Arapaho Tribal Industries,0,Gigabit,Low,"{50, 70}"
+183,"Northwest Communications, Inc.",50,Minimum,Low,"{10, 50, 70}"
+184,Northwoodsconnect,0,Gigabit,Low,{70}
+185,"Norvado, Inc.",0,Gigabit,Low,"{50, 11, 12}"
+186,"Nova Cablevision, Inc.",0,Gigabit,Low,{42}
+187,"Nuvera Communications, Inc.",0,Gigabit,Low,"{70, 10, 42, 50, 20, 30}"
+188,One Point Technologies Inc.,0,Gigabit,Low,"{42, 50, 70}"
+189,"One Ring Networks, Inc.",35,Baseline,Low,"{50, 70, 30}"
+190,"Penasco Valley Telephone Cooperative, Inc.",0,Gigabit,Low,"{10, 42, 50, 70}"
+191,"Palmetto Telephone Communications, LLC",0,Gigabit,Low,"{50, 10}"
+192,"Panhandle Telephone Cooperative, Inc.",0,Gigabit,Low,"{70, 40, 10, 11, 12, 42, 50}"
+193,"Pathway Com-Tel, Inc.",20,Above Baseline,Low,"{40, 50, 70}"
+194,"Pathwayz Communications, Inc.",0,Gigabit,Low,"{70, 10, 11, 50, 30}"
+195,Paul Bunyan Rural Telephone Cooperative,0,Gigabit,Low,"{50, 11, 12}"
+196,"Pembroke Telephone Company, Inc.",0,Gigabit,Low,{50}
+197,"Peoples Communication, Inc.",0,Gigabit,Low,"{50, 11, 12, 70}"
+198,"Peoples Telecom, LLC",0,Gigabit,Low,{50}
+199,Pine Belt Communications Co. Inc.,0,Gigabit,Low,"{50, 11, 42, 70}"
+200,"Pine Cellular Phones, Inc.",0,Gigabit,Low,
+201,"Pinpoint Holdings, Inc.",0,Gigabit,Low,"{70, 40, 10, 11, 12, 50}"
+202,"Pioneer Long Distance, Inc.",0,Gigabit,Low,
+203,"Pioneer Wireless, Inc.",0,Gigabit,Low,"{10, 50}"
+204,"Plains Internet, LLC",0,Gigabit,Low,{70}
+205,"Planters Communications, LLC",0,Gigabit,Low,{50}
+206,Plateau,0,Gigabit,Low,"{50, 70}"
+207,"PocketiNet Communications, Inc.",35,Baseline,Low,"{50, 10, 70}"
+208,"Point Broadband Fiber Holding, LLC",0,Gigabit,Low,"{50, 10, 70}"
+209,"Poka Lambro Telecommunications, Ltd.",0,Gigabit,Low,"{50, 11, 70}"
+210,"Ponderosa Communications, Inc.",35,Baseline,Low,"{70, 10, 11, 12, 50}"
+211,Premier Point,50,Minimum,Low,
+212,Prospero Broadband Consortium,0,Gigabit,Low,
+213,Public Service Telephone Company,20,Above Baseline,Low,"{50, 10, 20}"
+214,Pueblo of Jemez,50,Minimum,Low,
+215,"QCOL, Inc.",0,Gigabit,Low,{50}
+216,"Quantum Telecommunications, Inc.",0,Gigabit,Low,"{50, 11, 20, 70}"
+217,RC Technologies,0,Gigabit,Low,
+218,RDOF USA Consortium,0,Gigabit,Low,
+219,"RHMD, LLC",0,Gigabit,Low,
+220,Ronan Telephone Co,50,Minimum,Low,"{41, 50, 11, 70}"
+221,"Rainbow Telecommunications Association, Inc.",0,Gigabit,Low,"{42, 50, 70}"
+222,"Redzone Wireless, LLC",35,Baseline,Low,"{50, 70}"
+223,Reedsburg Utility Commission,0,Gigabit,Low,{50}
+224,Reservation Telephone Cooperative,0,Gigabit,Low,"{10, 50}"
+225,"Resound Networks, LLC",0,Gigabit,Low,"{50, 70}"
+226,Rivers High Group,0,Gigabit,Low,
+227,Rocket Connect LLC,20,Above Baseline,Low,{70}
+228,Rockwell Cooperative Telephone Association,0,Gigabit,Low,"{50, 10}"
+229,Roseau Electric Cooperative,0,Gigabit,Low,{50}
+230,Rowe Wireless Networks LLC,50,Minimum,Low,{70}
+231,Rural American Broadband Consortium,0,Gigabit,Low,
+232,Rural Electric Cooperative Consortium,0,Gigabit,Low,
+233,"SLIC Network Solutions, Inc.",20,Above Baseline,Low,{50}
+234,"Southwest Arkansas Telephone Cooperative, Inc.",0,Gigabit,Low,"{50, 11, 70}"
+235,Sac County Mutual Telephone Company,0,Gigabit,Low,{10}
+236,Safelink Internet,20,Above Baseline,Low,"{50, 70}"
+237,San Bruno CityNet Services,0,Gigabit,Low,"{42, 50}"
+238,"Sandhill Telephone Cooperative, Inc.",0,Gigabit,Low,"{40, 42, 43, 12, 50}"
+239,"Santa Rosa Telephone Cooperative, Inc.",50,Minimum,Low,"{10, 50, 70}"
+240,Savage Communications Inc.,0,Gigabit,Low,{42}
+241,Scott County,0,Gigabit,Low,"{10, 50}"
+242,Scranton Telephone Company,0,Gigabit,Low,{50}
+243,Segnem Egere Consortium,0,Gigabit,Low,
+244,Shenandoah Telecommunications Company,35,Baseline,Low,"{42, 11, 43, 50, 30}"
+245,Simple Networks Systems LLC,20,Above Baseline,Low,
+246,"Siuslaw Broadband, LLC",0,Gigabit,Low,"{50, 70}"
+247,Siyeh Communications,0,Gigabit,Low,"{50, 70}"
+248,"Skybeam, LLC",20,Above Baseline,Low,{70}
+249,"Skywave Wireless, Inc.",0,Gigabit,Low,"{50, 70}"
+250,"Socket Telecom, LLC",0,Gigabit,Low,"{10, 50, 30}"
+251,SOMERSET TELEPHONE COMPANY,0,Gigabit,Low,"{40, 10, 11, 50}"
+252,"Sound Internet Services, Inc.",20,Above Baseline,Low,"{40, 50, 70, 30}"
+253,South Arkansas Telephone Co.,0,Gigabit,Low,"{10, 50}"
+254,South Central Wireless Inc.,0,Gigabit,Low,"{50, 11, 12, 70}"
+255,Southern Montana Telephone Company,0,Gigabit,Low,"{50, 11}"
+256,Southwest Minnesota Broadband Services,0,Gigabit,Low,{50}
+257,Southwest Texas Telephone Company,0,Gigabit,Low,"{50, 11, 12, 70}"
+258,Space Exploration Technologies Corp.,20,Above Baseline,Low,
+259,"Spiral Communications, LLC",0,Gigabit,Low,"{50, 70}"
+260,Spring Grove Communications,0,Gigabit,Low,{50}
+261,St Paul Coop Telephone Assoc,0,Gigabit,Low,"{50, 11}"
+262,"St. John Telephone, Inc.",0,Gigabit,Low,"{42, 50}"
+263,Standing Rock Telecommunications,20,Above Baseline,Low,
+264,Steelville Telephone Exchange Inc,0,Gigabit,Low,"{10, 20, 70}"
+265,"Surf Air Wireless, LLC",35,Baseline,Low,"{10, 50, 70}"
+266,Surfnet Communications,20,Above Baseline,Low,"{50, 70}"
+267,Sycamore Telephone Company,0,Gigabit,Low,"{10, 50}"
+268,"Talkie Communications, Inc.",0,Gigabit,Low,{50}
+269,"Taylor Telephone Cooperative, Inc.",0,Gigabit,Low,"{10, 50, 11, 12}"
+270,"Arvig Enterprises, Inc.",0,Gigabit,Low,"{70, 10, 11, 43, 12, 42, 50}"
+271,Tennessee Cooperative Group Consortium,0,Gigabit,Low,
+272,Terral Telephone Company,0,Gigabit,Low,"{50, 70}"
+273,"ThinkBig Networks, LLC",0,Gigabit,Low,{50}
+274,"Totah Communications, Inc.",0,Gigabit,Low,"{50, 11, 12, 70}"
+275,"Tri County Telephone Association, Inc.",50,Minimum,Low,"{70, 40, 11, 12, 50}"
+276,"TruVista Communications of Georgia, LLC",0,Gigabit,Low,"{42, 50}"
+277,"Uintah Basin Electronic Telecommunications, L.L.C.",0,Gigabit,Low,
+278,"Ultimate Internet Access, Inc.",0,Gigabit,Low,"{50, 70}"
+279,"Unified Communications, Inc.",20,Above Baseline,Low,"{42, 50, 70}"
+280,Union Telephone Company,35,Baseline,Low,"{10, 50, 12, 70}"
+281,United States Cellular Corporation,35,Baseline,Low,{70}
+282,"United Wireless Communications, Inc.",35,Baseline,Low,"{50, 70}"
+283,UPSALA COOPERATIVE TELEPHONE ASSOCIATION,0,Gigabit,Low,"{40, 50}"
+284,"VTel Wireless, Inc.",50,Minimum,Low,{70}
+285,"Valley Communications Association, LLC",0,Gigabit,Low,"{50, 70}"
+286,"Valley Telephone Cooperative, Inc.",0,Gigabit,Low,"{50, 11, 12, 70}"
+287,"Velocity Communications, Inc.",0,Gigabit,Low,"{42, 50, 70}"
+288,Verizon Communications Inc.,35,Baseline,Low,"{70, 10, 50, 20, 30}"
+289,"Viasat, Inc.",60,Above Baseline,High,
+290,"Visionary Communications, Inc.",0,Gigabit,Low,"{70, 10, 50, 20, 30}"
+291,"W.T. Services, Inc.",0,Gigabit,Low,"{50, 10, 12, 70}"
+292,"WC Fiber, LLC",0,Gigabit,Low,
+293,"WTC Communications, Inc.",0,Gigabit,Low,"{70, 40, 10, 12, 50}"
+294,"Wabash Communications, Inc.",20,Above Baseline,Low,{70}
+295,West River Telecommunications Cooperative,0,Gigabit,Low,"{50, 10}"
+296,Western Iowa Wireless,20,Above Baseline,Low,{70}
+297,Wiggins Telephone Association,0,Gigabit,Low,{50}
+298,Wikstrom Telephone Company,0,Gigabit,Low,
+299,Wildstar,35,Baseline,Low,
+300,Wilkes Telephone Membership Corporation,50,Minimum,Low,"{70, 10, 42, 12, 11, 50}"
+301,"Wilson Creek Communications, LLC",35,Baseline,Low,{70}
+302,"Windstream Holdings, Inc.",0,Gigabit,Low,"{70, 40, 41, 10, 11, 12, 42, 50, 20, 30}"
+303,Winnebago Cooperative Telecom Association,0,Gigabit,Low,{50}
+304,Wisper-CABO 904 Consortium,35,Baseline,Low,
+305,Wittenberg Telephone Company,0,Gigabit,Low,"{41, 50, 11, 70}"
+306,Solarus,0,Gigabit,Low,"{50, 12}"
+307,Woodstock Telephone Company,0,Gigabit,Low,"{50, 70}"
+308,"Worldwide Technologies, Inc.",0,Gigabit,Low,{70}
+309,"XIT Rural Telephone Cooperative, Inc.",0,Gigabit,Low,"{50, 12, 70}"
+310,"XL Broadband, Inc.",20,Above Baseline,Low,{70}
+311,Yucca Telecom,0,Gigabit,Low,"{10, 11, 50, 70}"
+312,Zirkel Wireless,20,Above Baseline,Low,{70}
+313,"Zito West Holding, LLC",0,Gigabit,Low,"{42, 50}"
+314,"Coon Valley Co-op Telephone Association, Inc.",0,Gigabit,Low,"{50, 70}"
+315,"yondoo Broadband, LLC",0,Gigabit,Low,"{40, 50}"
